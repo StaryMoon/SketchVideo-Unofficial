@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "SketchVideo: Sketch-based Video Generation and Editing"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/SketchVideo-Unofficial"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "SketchVideo: Sketch-based Video Generation and Editing"
+  authors:
+  - family-names: Liu
+    given-names: Feng-Lin
+  - family-names: Fu
+    given-names: Hongbo
+  - family-names: Wang
+    given-names: Xintao
+  - family-names: Ye
+    given-names: Weicai
+  - family-names: Wan
+    given-names: Pengfei
+  - family-names: Zhang
+    given-names: Di
+  - family-names: Gao
+    given-names: Lin
+  conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2025
+  url: "https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SketchVideo_Sketch-based_Video_Generation_and_Editing_CVPR_2025_paper.html"

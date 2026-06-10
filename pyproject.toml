@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sketchvideo-unofficial"
-version = "0.1.0"
-description = "Unofficial PyTorch starter for SketchVideo: Sketch-based Video Generation and Editing."
+version = "0.2.0"
+description = "Unofficial PyTorch reproduction for SketchVideo: Sketch-based Video Generation and Editing."
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
